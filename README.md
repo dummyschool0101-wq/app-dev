@@ -3,7 +3,7 @@ My first repository
 
 # Code Geass: Lelouch of the Rebellion
 
-![Code Geass](https://upload.wikimedia.org/wikipedia/en/8/8e/Code_Geass_R1_box_set_cover.jpg)
+![Code Geass]([https://upload.wikimedia.org/wikipedia/en/8/8e/Code_Geass_R1_box_set_cover.jpg](https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=85%2Cwidth=1200%2Cheight=675/catalog/crunchyroll/cfaef5fd478438556a67e0ed7ee952f3.png))
 
 ## About the Series
 
